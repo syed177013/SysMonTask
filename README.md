@@ -89,6 +89,7 @@ After installing dependencies:
 $ git clone https://github.com/KrispyCamel4u/SysMonTask.git
 $ cd SysMonTask
 $ sudo python3 setup.py install
+$ sudo apt install gir1.2-wnck-3.0 #Needed to run successfully, if not installed automatically
 $ sysmontask
 ```
 It will install it in "/usr/local/lib/python<version>/dist-packages/".
